@@ -3,3 +3,7 @@ $ git add helloGit.txt
 $ git commit -m 'add helloGit.txt'
 $ git status
 $ git diff
+$ git reset --hard commit_id
+$ git log
+$ git reflog
+$ git remote add origin git@github.com:michaelliao/learngit.git
