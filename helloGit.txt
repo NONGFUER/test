@@ -1,3 +1,5 @@
 $ git init
 $ git add helloGit.txt
 $ git commit -m 'add helloGit.txt'
+$ git status
+$ git diff
